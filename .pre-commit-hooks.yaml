@@ -1,0 +1,5 @@
+- id: test-tex
+  name: test-tex
+  entry: test-tex.sh
+  language: script
+  files: main.tex
